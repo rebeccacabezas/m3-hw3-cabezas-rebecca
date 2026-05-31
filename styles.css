@@ -65,8 +65,8 @@ main {
 
 .profile-img {
 float: left;
-width: 180px;
-height: 180px;
+width: 250px;
+height: auto;
 object-fit: cover;
 object-position: top center;
 margin: 0 20px 15px 0;
