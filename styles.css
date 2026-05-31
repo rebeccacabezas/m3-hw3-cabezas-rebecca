@@ -94,3 +94,7 @@ footer {
   padding: 25px;
   border-top: 6px solid #4aaaa5;
 }
+  img {
+width: 200px;
+height: auto;
+}
