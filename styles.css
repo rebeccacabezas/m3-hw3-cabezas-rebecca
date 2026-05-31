@@ -64,10 +64,12 @@ main {
 }
 
 .profile-img {
-  float: left;
-  width: 200px;
-  height: 200px;
-  margin: 0 20px 15px 0;
+float: left;
+width: 180px;
+height: 180px;
+object-fit: cover;
+object-position: top center;
+margin: 0 20px 15px 0;
 }
 
 .sidebar {
